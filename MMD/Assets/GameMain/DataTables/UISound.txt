@@ -1,0 +1,32 @@
+#	声音配置表				
+#	Id		AssetName	Priority	Volume
+#	int		string	int	float
+#	声音编号	策划备注	资源名称	优先级（默认0，128最高，-128最低）	音量（0~1）
+	10000	点击抽屉	drawer	0	1
+	10001	点击错误气泡	qipao_f	0	1
+	10002	点击正确气泡	qipao_s	0	1
+	10003	倒计时3	CountDown3	0	1
+	10004	倒计时2	CountDown2	0	1
+	10005	倒计时1	CountDown1	0	1
+	10006	倒计时GO	GO	0	1
+	10007	物体飞出去的声音	biu	0	1
+	10008	倒计时结束的爆炸声	TimeOver	0	1
+	10009	引导线圆点	GuidePoint	0	1
+	10010	提示答案声	Tips	0	1
+	10011	切换题目声	MagicDis	0	1
+	10012	选错物体	SelectErr	0	1
+	10013	倒计时心跳	HeartBeat	0	1
+	10014	完成题目的胜利声	Success	0	1
+	10015	答错题目的失败声	Failed	0	1
+	10016	完成答题涨星星	tingting	0	1
+	10017	涨分数的声音	UpScore	0	1
+	10018	按钮声音	BtnSound	0	1
+	10019	倒计时结束出题	Begin	0	1
+	10020	完成题目的结束音	End	0	1
+	10021	比赛开始的礼花枪声	GunFire	0	1
+	10022	赛车声	CarIn	0	1
+	10023	欢呼声	Hail	0	1
+	10024	刷油漆的声音	Brush	0	1
+	10025	笔划声	Struck	0	1
+	10026	铲子声	Shovel	0	1
+	10027	图片闪烁的声音	VoiceShake	0	1

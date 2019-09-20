@@ -1,0 +1,21 @@
+{
+  "Serial_BaudRate": 256000,
+  "Serial_Port": "com3",
+  "Serial_Scale": 0.2,
+  "Serial_Offset_Width": 0,
+  "Serial_Offset_Height": 0,
+  "URG_Address": "192.168.1.233",
+  "URG_Port": 10940,
+  "URG_Scale": 0.33,
+  "URG_Offset_Width": 0,
+  "URG_Offset_Height": 50,
+  "Screen_Wall_Width": 1920,
+  "Screen_Wall_Height": 704,
+  "Screen_Land_Width": 1152,
+  "Screen_Land_Height": 1152,
+  "Socket_IP": "192.168.1.36",
+  "Socket_Port": 9090,
+  "DeviceNumber" : 1,
+  "IsKinect" : true,
+  "Http_IP": "http://47.111.14.21/xxpn/"
+}

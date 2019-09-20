@@ -1,0 +1,98 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Penny
+{
+
+
+
+
+
+
+
+    public enum SoundId
+    {
+        s1_pangbai1                     = 10000,
+        s1_pangbai2                     = 10001,
+        s1_calc_0star                   = 10002,
+        s1_calc_1star                   = 10003,
+        s1_calc_2star                   = 10004,
+        s1_calc_3star                   = 10005,
+        s1_calc_4star                   = 10006,
+        s1_calc_5star                   = 10007,
+        s1_diff_1                       = 10008,
+        s1_diff_2                       = 10009,
+        s1_diff_3                       = 10010,
+        s1_diff_4                       = 10011,
+        s1_easy_1                       = 10012,
+        s1_easy_2                       = 10013,
+        s1_easy_3                       = 10014,
+        s1_easy_4                       = 10015,
+        s1_xiangxiang                   = 10016,
+        s1_yanshi_pini_1                = 10017,
+        s1_yanshi_pangbai_2             = 10018,
+        s1_yanshi_pini_3                = 10019,
+        s1_yanshi_pini_4                = 10020,
+        s1_yanshi_pini_5                = 10021,
+        s1_pangbai3                     = 10022,
+        s2_pangbai1                     = 10023,
+        s2_yanshi_pini_2                = 10024,
+        s2_yanshi_pangbai_3             = 10025,
+        s2_yanshi_pini_4                = 10026,
+        s2_yanshi_pini_5                = 10027,
+        s2_yanshi_pini_6                = 10028,
+        s2_yanshi_pini_7                = 10029,
+        s2_pangbai2                     = 10030,
+        s2_easy_1                       = 10031,
+        s2_easy_2                       = 10032,
+        s2_easy_3                       = 10033,
+        s2_easy_4                       = 10034,
+        s2_pangbai3                     = 10035,
+        s2_diff_1                       = 10036,
+        s2_diff_2                       = 10037,
+        s2_diff_3                       = 10038,
+        s2_diff_4                       = 10039,
+        s2_diff_5                      = 10040,
+        s2_diff_6                      = 10041,
+        s2_diff_7                      = 10042,
+        s2_diff_8                      = 10043,
+        s2_diff_9                      = 10044,
+        s2_diff_10                      = 10045,
+        s3_panbai_1                     = 10046,
+        s3_yanshi_pini_16               = 10047,
+        s3_yanshi_pangbai_17            = 10048,
+        s3_yanshi_pini_18               = 10049,
+        s3_yanshi_pini_19               = 10050,
+        s3_panbai_2                     = 10051,
+        s3_easy_1                       = 10052,
+        s3_easy_2                       = 10053,
+        s3_easy_3                       = 10054,
+        s3_easy_4                       = 10055,
+        s3_panbai_3                      = 10056,
+        s3_diff_1                      = 10057,
+        s3_diff_2                      = 10058,
+        s3_diff_3                      = 10059,
+        s3_diff_4                      = 10060,
+        s3_diff_5                      = 10061,
+        s4_pangbai_1            = 10062,
+        s4_yanshi_pini_22               = 10063,
+        s4_yanshi_pangbai_23            = 10064,
+        s4_yanshi_pini_24               = 10065,
+        s4_yanshi_pangbai_25            = 10066,
+        s4_yanshi_pini_26               = 10067,
+        s4_yanshi_pini_27               = 10068,
+        s4_pangbai_2               = 10069,
+        s4_easy_1                      = 10070,
+        s4_easy_2                      = 10071,
+        s4_easy_3                      = 10072,
+        s4_easy_4                      = 10073,
+        s4_pangbai_3                      = 10074,
+        s4_diff_1                      = 10075,
+        s4_diff_2                      = 10076,
+        s4_diff_3                      = 10077,
+        s4_diff_4                      = 10078,
+        s4_diff_5                      = 10079,
+
+    }
+}

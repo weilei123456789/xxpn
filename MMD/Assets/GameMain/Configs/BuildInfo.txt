@@ -1,0 +1,6 @@
+{
+  "GameVersion": "0.1.0",
+  "InternalGameVersion": 0,
+  "CheckVersionUrl": "http://192.168.1.226:8088/Penny_Resource/Version.txt",
+  "UpdateLogUrl": "http://192.168.1.226:8088/Penny_Resource/UpdateLog.txt"
+}
